@@ -1,4 +1,3 @@
-# rsschool-cv
 # Alex Mi
 ## Contacts
 - **Location:** Russia
