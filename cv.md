@@ -33,5 +33,5 @@ print((gc_number/len_number) * 100)
 - **Courses:**
   * [Stepik](https://stepik.org/course/58852/info)
   * [Stepik](https://stepik.org/course/67/info)
-  # English
-  **A1** (Beginner, Elementary)
+# English
+**A1** (Beginner, Elementary)
