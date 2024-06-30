@@ -14,6 +14,7 @@ I am constantly learning and ready for new knowledge.
 - CSS
 - Python
 - Git
+- SQL
 ## Code Example
 ```
 text = input().upper()
